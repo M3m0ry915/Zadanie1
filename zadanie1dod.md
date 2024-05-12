@@ -1,5 +1,6 @@
 # Część dodatkowa (etap2)
-
+Link do DockerHub z repozytorium z zadaniem dodatkowym (w pliku tekstowym jest do rozwiązania z części podstawowej)  
+https://hub.docker.com/repository/docker/hubertsikora/zad1dod/general
 ## Należy podać polecenia:
 
 ### Logowanie do DockerHub:
