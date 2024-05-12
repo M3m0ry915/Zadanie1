@@ -1,0 +1,17 @@
+{
+  "name": "host-info-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment-timezone": "^0.5.45",
+    "os": "^0.1.2"
+  }
+}
