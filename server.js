@@ -18,7 +18,6 @@ app.get('/', (req, res) => {
 
   const clientTimezone = geo ? geo.timezone : null; // Strefa czasowa
 
-  // Jeśli udało się zlokalizować klienta, uzyskaj datę i czas w jego strefie czasowej
   let dateInClientTimeZone = null;
   if (clientTimezone) {
     dateInClientTimezone = moment.tz(date, clientTimezone).format();
