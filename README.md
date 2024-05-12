@@ -1,6 +1,6 @@
-# Zadanie1
+## Zadanie1
 
-Należy podać polecenia niezbędne do:
+# Należy podać polecenia niezbędne do:
 a. zbudowania opracowanego obrazu kontenera:
 docker build -t zad1obow . 
 
